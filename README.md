@@ -1,7 +1,13 @@
-https://tangly1024.com/article/how-to-update-notionnext 
+# 帮助教程
 
-按教程创建的专用deploy分支
----
+访问帮助：[NotionNext帮助手册](https://docs.tangly1024.com/) 
+
+> 本项目教程为免费、公开资源，仅限个人学习使用。严禁任何个人或组织将本教程用于商业用途，包括但不限于直接售卖、间接收费、或其他变相盈利行为。转载、复制或介绍本教程内容时，须保留作者信息并明确注明来源。
+> 本项目仅提供由作者团队授权的付费咨询服务，请注意辨别，谨防诈骗行为。任何未经授权的收费服务均可能存在法律风险。
+
+Notion是一个能让效率暴涨的生产力引擎，可以帮你书写文档、管理笔记，搭建知识库，甚至可以为你规划项目、时间管理、组织团队、提高生产力、还有当前最强大的AI技术加持。
+> 如果希望进一步探索Notion的功能，欢迎购买《[Notion笔记从入门到精通进阶课程](https://docs.tangly1024.com/article/notion-tutorial)》
+
 # NotionNext
 
 <p>
@@ -29,25 +35,11 @@ https://tangly1024.com/article/how-to-update-notionnext
 
 ## 预览效果
 
-在线演示：[https://preview.tangly1024.com/](https://preview.tangly1024.com/) ，项目支持多主题切换，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
+在线演示：[https://preview.tangly1024.com/](https://preview.tangly1024.com/) ，点击左下角挂件可以切换主题，没找到喜欢的主题？[贡献](/CONTRIBUTING.md)一个吧~
 
 | Next | Medium | Hexo | Fukasawa |
 |--|--|--|--|
 | <img src='./docs/theme-next.png' width='300'/> [预览NEXT](https://preview.tangly1024.com/?theme=next)  | <img src='./docs/theme-medium.png' width='300'/> [预览MEDIUM](https://preview.tangly1024.com/?theme=medium) | <img src='./docs/theme-hexo.png' width='300'/> [预览HEXO](https://preview.tangly1024.com/?theme=hexo) | <img src='./docs/theme-fukasawa.png' width='300'/> [预览FUKASAWA](https://preview.tangly1024.com/?theme=fukasawa) |
-
-## 我要如何开始？
-
-只需几分钟即可搭建您的个人站点：
-
-- [快速部署教程 - 多种方案可供选择](https://tangly1024.com/article/notion-next) 
-
-- [个性配置手册 - 如何配置功能插件](https://tangly1024.com/article/notion-next-guide) 
-
-- [二次开发指引 - 如何进行本地开发](https://tangly1024.com/article/how-to-develop-with-notion-next)
-
-- [更新操作指南 - 获取最新升级补丁](https://tangly1024.com/article/how-to-update-notionnext)
-
-- [历史版本汇总 - 查询版本功能特性](https://tangly1024.com/article/notion-next-changelogs)
 
 ## 致谢
 感谢Craig Hart发起的Nobelium项目
@@ -172,6 +164,26 @@ https://tangly1024.com/article/how-to-update-notionnext
     <a href="https://github.com/RedhairHambagu" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/129669334" width="64px;"  alt="RedhairHambagu"/><br/><sub><b>RedhairHambagu</b></sub></a><br/><a href="https://github.com/tangly1024/NotionNext/commits?author=RedhairHambagu" title="RedhairHambagu" >🔧 🐛</a>
   </td>
 
+  <td align="center">
+    <a href="https://github.com/Allengl" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/58612763" width="64px;"  alt="Allen"/><br/><sub><b>Allen</b></sub></a><br/><a href="https://github.com/tangly1024/NotionNext/commits?author=Allengl" title="Allengl" >🔧 🐛</a>
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/zdf1230" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/5999425" width="64px;"  alt="zdf1230"/><br/><sub><b>zdf</b></sub></a><br/><a href="https://github.com/tangly1024/NotionNext/commits?author=zdf1230" title="zdf1230" >🔧 🐛</a>
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/emengweb" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/31469739" width="64px;"  alt="emengweb"/><br/><sub><b>emengweb</b></sub></a><br/><a href="https://github.com/tangly1024/NotionNext/commits?author=emengweb" title="emengweb" >🔧 🐛</a>
+  </td>
+
+  <td align="center">
+    <a href="https://github.com/kitety" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/22906933" width="64px;"  alt="kitety"/><br/><sub><b>kitety</b></sub></a><br/><a href="https://github.com/tangly1024/NotionNext/commits?author=kitety" title="kitety" >🔧 🐛</a>
+  </td>
+
+ <td align="center">
+    <a href="https://github.com/jxpeng98" style="display:inline-block;width:80px"><img src="https://avatars.githubusercontent.com/u/83734772" width="64px;"  alt=" Jiaxin Peng"/><br/><sub><b> Jiaxin Peng</b></sub></a><br/><a href="https://github.com/tangly1024/NotionNext/commits?author=jxpeng98" title="jxpeng98" >🔧 🐛</a>
+  </td>
+
 </tr>
 </table>
 
@@ -184,6 +196,9 @@ https://tangly1024.com/article/how-to-update-notionnext
 - **评论**: [Twikoo](https://github.com/imaegoo/twikoo), [Giscus](https://giscus.app/zh-CN), [Gitalk](https://gitalk.github.io), [Cusdis](https://cusdis.com), [Utterances](https://utteranc.es)
 - **图标**: [Fontawesome](https://fontawesome.com/v6/icons/)
 
+
+## 🔗 友情链接
+- [Elog](https://github.com/LetTTGACO/elog) Markdown 批量导出工具、开放式跨平台博客解决方案，随意组合写作平台(语雀/Notion/FlowUs/飞书)和博客平台(Hexo/Vitepress/Halo/Confluence/WordPress等)
 
 ## License
 
